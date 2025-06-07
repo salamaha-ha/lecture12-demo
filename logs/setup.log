@@ -1,0 +1,16 @@
+2025-06-07 20:58:02 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw
+2025-06-07 20:58:02 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/data/processed
+2025-06-07 20:58:02 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/logs
+2025-06-07 20:58:02 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/backups
+2025-06-07 20:58:02 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/output
+2025-06-07 20:58:02 | FILE CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw/example_utf8.txt | encoding=utf-8
+2025-06-07 20:58:02 | FILE CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw/example_iso.txt | encoding=iso-8859-1
+2025-06-07 20:58:02 | FILE CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw/пример_win1251.txt | encoding=cp1251
+2025-06-07 20:59:32 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw
+2025-06-07 20:59:32 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/data/processed
+2025-06-07 20:59:32 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/logs
+2025-06-07 20:59:32 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/backups
+2025-06-07 20:59:32 | DIR CREATED | /Users/anna/Desktop/УИИ/homework_12/output
+2025-06-07 20:59:32 | FILE CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw/example_utf8.txt | encoding=utf-8
+2025-06-07 20:59:32 | FILE CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw/example_iso.txt | encoding=iso-8859-1
+2025-06-07 20:59:32 | FILE CREATED | /Users/anna/Desktop/УИИ/homework_12/data/raw/пример_win1251.txt | encoding=cp1251

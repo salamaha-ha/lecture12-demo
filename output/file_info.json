@@ -1,0 +1,23 @@
+[
+  {
+    "name": "example_iso_processed.txt",
+    "full_path": "/Users/anna/Desktop/УИИ/homework_12/data/processed/example_iso_processed.txt",
+    "size": 13,
+    "created": "2025-06-07T20:59:32.219236",
+    "modified": "2025-06-07T20:59:32.219236"
+  },
+  {
+    "name": "example_utf8_processed.txt",
+    "full_path": "/Users/anna/Desktop/УИИ/homework_12/data/processed/example_utf8_processed.txt",
+    "size": 33,
+    "created": "2025-06-07T20:59:32.219871",
+    "modified": "2025-06-07T20:59:32.219871"
+  },
+  {
+    "name": "пример_win1251_processed.txt",
+    "full_path": "/Users/anna/Desktop/УИИ/homework_12/data/processed/пример_win1251_processed.txt",
+    "size": 32,
+    "created": "2025-06-07T20:59:32.219668",
+    "modified": "2025-06-07T20:59:32.219668"
+  }
+]

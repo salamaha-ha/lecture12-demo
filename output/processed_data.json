@@ -1,0 +1,23 @@
+[
+  {
+    "filename": "example_iso.txt",
+    "original_text": "¡Hola mundo!",
+    "processed_text": "¡hOLA MUNDO!",
+    "size_bytes": 13,
+    "last_modified": "2025-06-07T20:59:32.219236"
+  },
+  {
+    "filename": "пример_win1251.txt",
+    "original_text": "Тест на кириллицу",
+    "processed_text": "тЕСТ НА КИРИЛЛИЦУ",
+    "size_bytes": 32,
+    "last_modified": "2025-06-07T20:59:32.219668"
+  },
+  {
+    "filename": "example_utf8.txt",
+    "original_text": "Привет мир! Hello World!",
+    "processed_text": "пРИВЕТ МИР! hELLO wORLD!",
+    "size_bytes": 33,
+    "last_modified": "2025-06-07T20:59:32.219871"
+  }
+]
